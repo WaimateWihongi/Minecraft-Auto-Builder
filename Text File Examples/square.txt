@@ -1,0 +1,3 @@
+stone, stone, stone,
+stone, air, stone,
+stone, stone, stone,
